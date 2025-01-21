@@ -1,0 +1,6 @@
+admin=Admin
+ghaz=Customer
+ghazswds=Customer
+amr=Customer
+ghs=Customer
+johnwick=Customer
